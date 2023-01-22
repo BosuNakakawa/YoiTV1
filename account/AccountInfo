@@ -1,0 +1,36 @@
+{
+    "account": "",
+    "cid": "AABC541574849",
+    "account_access_token": "",
+    "account_refresh_token": "",
+    "cid_access_token": "PX9LqfLg0QgUS0Txurx08Jahjv1qbijSp6Ncep5RymrJygpwEY6rELeGBNvO6MtXRCWkXwclwQKB3wfbA0runsHBzI77Pks9x1t0jhndxpQDX\/EayeeMTp3U0+id5n1KSFEKt7oijJs05MkjXV9iBy4dpxcp6jdZ1sDfTCcsCnJ1BtP2rEKbnFry3p3PYaGBFZU31FFp8PbPIbG7UoLTlAs5rNqQylWGM15vHBx0j6fKdeW50gGwN85MpO60UVy+eFVnR3ZW4dAKBFA5kcnxbwMUOKvr6qSSPZ8rTP+orkpX5ZcmtadnPVtPdEwYo7JddK2LRHLgSSEY841WFfsdD5Ew047Vzg7lS+mwu+6rsDxr4fRG0KCxLXPuPfdmjy1hltCxJTPLYFmIkS8FUq7YV5mFiM9+LJbBR800\/3WegrQb0azuerZIOWhlhK\/eYKTtii\/x3RMtlX1GCQV+iJaRXWM5QYRB9kIkQYfEzcUnOrTtmF76R208Asn7jhT7H4kgjKd1Nnr\/FYh7B6OkeQtlLOhuz5md19UAVgHgkoxQdg4JJQlwSUuHbJivVWc3k4HTlQyrlycoP8FiUalPOXQB2A==",
+    "cid_refresh_token": "nkVW5Sy0jT3x7bn5Y44m76i+DAlFR3j2TdKe+vD+l\/K7Oncep3QTB2ICu4XFuw0TKE9KjovsyaHXybGAPZUUNbR1D2J4p3Qp1GTnRF1kdal6Pg5CwpevT7mUywe4UwMzaKfxoLnndkftlMKDPyJFIDNmC9jxjTBTsr0WKonYr4rQimKeVRdgEXEkDCqa\/buC0iIKWBb+3M0JqWocRXYtox3lcuyIQxKp6wgMW\/pHkBg0YmAlN07ofUSXlzzSuITUsp4TUejc1p84kHkeSdqSXNO8fMvdtbD0Yi28CW0tj\/nc6nXmMfjIhk0ersRisRxplm9iJUNEJ\/\/y\/6sKCERjU3\/SDExOeiy1rGB13gV23Aplvs0iWZ1eQvuBlHC09ivrVnUkfVIMIoxWFRbn5ey6qkF1LorkxUr3UgariOT4Y4to6SDGr1mbYw286B2feJZEk37Y1grr3on9E7bMNBn13w==",
+    "product_config": {
+        "vms_host": "http:\/\/live.yoitv.com:9083",
+        "vms_rtmfp_host": "rtmfp:\/\/live.yoitv.com:9035",
+        "vms_vod_host": "http:\/\/vod.yoitv.com:9083",
+        "vms_vod_rtmfp": "rtmfp:\/\/vod.yoitv.com:9035",
+        "vms_uid": "C2D9261F3D5753E74E97EB28FE2D8B26",
+        "vms_live_cid": "A1B9470C288260372598FC7C577E4C61",
+        "vms_referer": "http:\/\/play.yoitv.com",
+        "website": "",
+        "priceLink": "https:\/\/download.yoitv.com\/app\/price-less.json",
+        "purchaseLink": "",
+        "epg_days": "30",
+        "single": "https:\/\/crm.yoitv.com\/single.sjs"
+    },
+    "products": [
+        {
+            "cid": "AABC541574849",
+            "create_time": "1663391757",
+            "expire": "1665983757",
+            "trial": "true",
+            "left_time": "2559664",
+            "enabled": "true",
+            "pid": "DC51932697953E8CB1A580C80A9BF520",
+            "product_name": "YoiTV General"
+        }
+    ],
+    "server_time": "1663424093",
+    "confirmed": "true"
+}
